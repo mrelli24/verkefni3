@@ -1,6 +1,6 @@
-import bottle
+from sys import argv
 from bottle import *
-bottle.debug(True)
+
 
 #A liður - mappan "view" á að nefna "views"
 
